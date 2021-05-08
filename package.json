@@ -1,5 +1,5 @@
 {
-  "name": "CoTrader-DEX-SDK-v1",
+  "name": "cotrader-dex-sdk-v1",
   "license": "MIT",
   "version": "1.0.1",
   "description": "🛠 An SDK for building applications on top of pancakeswap.",
