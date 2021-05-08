@@ -1,5 +1,5 @@
 {
-  "name": "@pancakeswap-libs/sdk",
+  "name": "CoTrader-DEX-SDK-v1",
   "license": "MIT",
   "version": "1.0.1",
   "description": "🛠 An SDK for building applications on top of pancakeswap.",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancakeswap-sdk.git",
+  "repository": "https://github.com/CoTraderCore/CoTrader-DEX-SDK-v1",
   "keywords": [
     "pancakeswap",
     "ethereum"
